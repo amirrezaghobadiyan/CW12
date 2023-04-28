@@ -36,9 +36,24 @@ body {}
     height: 2rem;
     background-color: rgb(238, 241, 241);
     text-align: center;
-    /* margin-top: .5rem; */
     padding-top: .5rem;
 
+}
+
+.firsta {
+    padding-right: 7rem;
+}
+
+.seconda {
+    padding-right: 7rem;
+}
+
+.thirda {
+    padding-right: 7rem;
+}
+
+.fourtha {
+    padding-right: 7rem;
 }
 
 a {
